@@ -1,0 +1,5 @@
+C:\Users\mrodriguez\Documents\Visual Studio 2012\Projects\MarksClasses\MRRML\bin\Debug\MRRML.dll
+C:\Users\mrodriguez\Documents\Visual Studio 2012\Projects\MarksClasses\MRRML\bin\Debug\MRRML.pdb
+C:\Users\mrodriguez\Documents\Visual Studio 2012\Projects\MarksClasses\MRRML\obj\Debug\MRRML.dll
+C:\Users\mrodriguez\Documents\Visual Studio 2012\Projects\MarksClasses\MRRML\obj\Debug\MRRML.pdb
+C:\Users\mrodriguez\Documents\Visual Studio 2012\Projects\MarksClasses\MRRML\obj\Debug\MRRML.csprojResolveAssemblyReference.cache
